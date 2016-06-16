@@ -1,0 +1,60 @@
+body {
+	font-family:  Arial, sans-serif;
+}
+p#description {
+	font-size: 14px;
+	width: 95%;
+}
+div#logo {
+	width: 10%;
+	float: left;
+	overflow: auto;
+}
+div#search_bar {
+	width: 60%;
+	float: left;
+	overflow: auto;
+}
+div#buttons {
+	width: 30%;
+	float: left;
+	overflow: auto;
+}	
+section#header {
+	width: 100%;
+	height: 10%;
+	margin: auto;
+	overflow: auto;
+}
+section#body {
+    width: 100%;
+    margin: auto;
+}
+div#link_sidebar {
+    width: 10%;
+    float: left;
+    overflow: auto;
+}
+div#main_content {
+	overflow: auto;
+    width: 60%;
+    float: left;
+}
+div#featured_sidebar {
+	width: 30%;
+	overflow: auto;
+	float: left;
+}
+td#related_cell {
+	width: 320px;
+	height: 90px;
+}
+td#comment_cell {
+	width: 100%;
+	height: 90px;
+}
+input#search {
+	width: 60%;
+	height: 30px;
+	font-size: 18px;
+}

@@ -11,4 +11,4 @@ MeTube is a file sharing/viewing site with the following capabilities:
 * Messaging
 * Keyword based searching
 
-I worked on this project in collaberation with two other students.
+I worked on this project in collaboration with two other students.
